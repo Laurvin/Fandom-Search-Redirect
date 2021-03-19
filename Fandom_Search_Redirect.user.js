@@ -3,7 +3,7 @@
 // @namespace Fandom Search Redirect
 // @author Laurvin
 // @description Redirects the search to the correct page if there is a complete match
-// @version 1.0
+// @version 1.01
 // @icon http://i.imgur.com/XYzKXzK.png
 // @match https://*.fandom.com/wiki/Special:Search?*
 // @grant none
