@@ -5,7 +5,7 @@
 // @description Redirects the search to the correct page if there is a complete match
 // @version 1.0
 // @icon http://i.imgur.com/XYzKXzK.png
-// @match https://*.fandom.com/wiki/Special:Search?search=*
+// @match https://*.fandom.com/wiki/Special:Search?*
 // @grant none
 // @run-at document-idle
 // ==/UserScript==
